@@ -1,0 +1,64 @@
+body{
+    background-color:chartreuse;
+
+}
+
+.Style1 {
+    background-color:cornflowerblue;
+    color:white;
+    border-top-style:none;
+    border-bottom-style:none;
+    border-left-style:none;
+    border-right-style:none;
+    position:absolute;
+    top:0%;
+    left:0%;
+    width:1897px;
+    box-shadow: -1px 15px 19px -5px rgba(0,0,0,0.84);
+-webkit-box-shadow: -1px 15px 19px -5px rgba(0,0,0,0.84);
+-moz-box-shadow: -1px 15px 19px -5px rgba(0,0,0,0.84);
+}
+
+.Style2 {
+    background-color:rgba(0, 128, 0, 0);
+    position:absolute;
+    top:10%;
+    left:10%;
+    border:none;
+    width:50%;
+    height:50%;}
+
+.Style3{
+    background-color:red;
+    border-radius:5px;
+    position:absolute;
+}
+
+.Style4{
+    background-color:white;
+    position:absolute;
+    top:139%;
+    left:0%;
+    border:none;
+    border-top-style:groove;
+    border-top-color: black;
+    width:100%;
+    font-weight: 900;
+    font-size: larger;
+    box-shadow: -1px -12px 33px 4px rgba(0,0,0,0.86);
+-webkit-box-shadow: -1px -12px 33px 4px rgba(0,0,0,0.86);
+-moz-box-shadow: -1px -12px 33px 4px rgba(0,0,0,0.86);
+}
+
+.Style5{
+    background-color:darkmagenta;
+    position:absolute;
+    top:10.0%;
+    left:0.5%;
+    border:double;
+    border-style:solid;
+    cursor:pointer;
+    box-shadow: 0px 0px 33px 6px rgba(0,0,0,1);
+-webkit-box-shadow: 0px 0px 33px 6px rgba(0,0,0,1);
+-moz-box-shadow: 0px 0px 33px 6px rgba(0,0,0,1);
+}
